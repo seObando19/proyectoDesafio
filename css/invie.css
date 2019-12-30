@@ -68,7 +68,7 @@ table {
 }
 
 th {
-  background: #273b47;
+  background: #263b17;
   color: white;
 }
 
@@ -82,7 +82,7 @@ td {
 }
 
 table, td, th {
-  border: 1px solid #273b47;
+  border: 1px solid #263b17;
   border-collapse: collapse;
 }
 
@@ -101,7 +101,7 @@ input:focus, textarea:focus {
 }
 
 .background {
-  background-color: #466173;
+  background-color: #126173;
   background-image: url('../images/background.png');
   background-size: cover;
 }
